@@ -46,5 +46,4 @@ The application should be accessible at `http://localhost:8080`.
 
 ## Usage
 
-Upon running the application, you can use API endpoints to interact with the library resources. Refer to the API documentation for detailed information on available endpoints and their usage.
-
+After downloading the required dependencies and libraries in this application, you can run the application.
